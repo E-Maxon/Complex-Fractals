@@ -46,7 +46,7 @@ select a part of the screen with the mouse - approximation of selected part
 
 backspace - to previous scale
 
-escape - close the programm
+escape - close the program
 
 
 The 95 line is responsible for c number, it can be changed to get different fractals. The line must look like: Complex c = Complex(a, b); where a -- real part of complex number, b -- imaginary part
